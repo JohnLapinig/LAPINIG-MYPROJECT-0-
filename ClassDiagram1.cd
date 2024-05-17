@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LAPINIG_MYPROJECT.AddEmployee" Collapsed="true">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAgAhAAACAAABQAAACIBAACAMApAAgAABAOAYBAAAA=</HashCode>
+      <FileName>AddEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LAPINIG_MYPROJECT.Form1" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAhAQESAAABAAAACABAACAKAJKkAAAAAAAQBAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LAPINIG_MYPROJECT.Dashboard" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8AAgAhAAACAAABRAAACABAACAMArAAAAAFAOAYBAAAA=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LAPINIG_MYPROJECT.Mainform" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>84AwAhAIBDCAAhQQCACAVgDCEYggICAAjgATA5BBAQQ=</HashCode>
+      <FileName>Mainform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LAPINIG_MYPROJECT.Report" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/RAgATCIACDAShQACEDAFADSAMgpIAAJHlAfA0JhADA=</HashCode>
+      <FileName>Report.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="4.75" Y="2.75" Width="1.5" />
+    <NestedTypes>
+      <Class Name="System.Windows.Forms.Form.ControlCollection" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
